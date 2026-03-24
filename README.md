@@ -11,6 +11,9 @@
   <a href="https://codolio.com/profile/ShivramSinghGurjar">
     <img src="https://img.shields.io/badge/Codolio-orange?style=for-the-badge" />
   </a>
+  <a href="mailto:shivramsinghgurjar2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -71,6 +74,14 @@
 - ✔ Oracle Java Fundamentals  
 - ✔ Google Python (Coursera)  
 - ✔ Web Dev Masterclass (Udemy)  
+
+---
+
+## 📬 Contact Me
+- 📧 Email: **shivramsinghgurjar2@gmail.com**
+- 🔗 LinkedIn: https://www.linkedin.com/in/shivram-singh-gurjar-2a9a4a2a9/
+- 💻 GitHub: https://github.com/shivramsinghgurjar
+- 📊 Codolio: https://codolio.com/profile/ShivramSinghGurjar
 
 ---
 
